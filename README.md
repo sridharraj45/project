@@ -2,4 +2,4 @@ dashboard - https://public.tableau.com/app/profile/sridharraj.s/viz/Book6_169700
 
 story - https://public.tableau.com/app/profile/sridharraj.s/viz/Book6_16970095354680/Story1?publish=yes
 
-drive - https://drive.google.com/drive/my-drive
+videolink-https://drive.google.com/file/d/10jIsedN5-3Or4I5aavOns1LqleAy9tti/view?usp=drivesdk
